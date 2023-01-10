@@ -33,5 +33,3 @@
 > - ## response.ExceptionsResponse
 >> enumeration.StatusEnum 과 properties.ExceptionsProperties 에 설정한 값으로 빌드되는 Class.  
 >> 이 Class 를 프로젝트에서 가져다 사용한다.
-> ## TODO
-> 기능 또는 예외처리가 추가되면 모듈을 수정해서 버전을 변경해서 배포
